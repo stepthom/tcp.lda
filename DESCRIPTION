@@ -1,0 +1,10 @@
+Package: tcp.lda
+Type: Package
+Title: Test case prioritization with LDA
+Version: 1.0
+Date: 2012-11-23
+Author: Stephen W. Thomas
+Maintainer: Stephen W. Thomas <sthomas@cs.queensu.ca>
+Description: This package uses latent Dirichlet allocation (LDA) to prioritize a set of test cases. This package is an implementation of the paper "Static Test Case Prioritization Using Topic Models" by Stephen W. Thomas et al. in Empirical Software Engineering, 2012.
+License: GNU General Public License
+LazyLoad: yes
