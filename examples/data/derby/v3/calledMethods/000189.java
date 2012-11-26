@@ -1,0 +1,10 @@
+BigDecimalHandler.BIGDECIMAL_REPRESENTATION
+BigDecimalHandler.representation
+Connection.close
+ij.getPropertyArg
+ij.startJBMS
+System.out
+System.println
+TestUtil.isJCCFramework
+Throwable.printStackTrace
+Throwable.toString

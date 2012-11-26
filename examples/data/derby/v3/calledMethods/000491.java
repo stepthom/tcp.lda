@@ -1,0 +1,23 @@
+Class.forName
+Connection.close
+Connection.commit
+Connection.createStatement
+Connection.setAutoCommit
+DriverManager.getConnection
+.equalsIgnoreCase
+( ).go
+.newInstance
+Properties.put
+ResultSet.close
+ResultSet.getInt
+ResultSet.next
+SQLException.getNextException
+SQLException.toString
+Statement.close
+Statement.execute
+Statement.executeQuery
+String.equals
+String.length
+System.out
+System.println
+Throwable.printStackTrace

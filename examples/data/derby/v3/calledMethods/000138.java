@@ -1,0 +1,16 @@
+Connection.commit
+Connection.getMetaData
+Connection.setAutoCommit
+DatabaseMetaData.getTables
+DatabaseMetaData.getTypeInfo
+ij.getPropertyArg
+ij.startJBMS
+PrintStream.println
+ResultSet.close
+ResultSet.getBoolean
+ResultSet.getInt
+ResultSet.getShort
+ResultSet.getString
+ResultSet.next
+System.out
+System.println

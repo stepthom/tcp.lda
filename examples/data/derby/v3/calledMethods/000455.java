@@ -1,0 +1,11 @@
+Connection.close
+ij.close
+ij.getPropertyArg
+ij.startJBMS
+Properties.setProperty
+System.out
+System.println
+TestUtil.getXADataSource
+Throwable.printStackTrace
+XADataSource.getConnection
+XADataSource.getXAConnection

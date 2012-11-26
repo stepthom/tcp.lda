@@ -1,0 +1,15 @@
+Connection.createStatement
+Connection.setAutoCommit
+ij.getPropertyArg
+ij.startJBMS
+org.apache
+org.derby
+org.JDBCDisplayUtil
+org.ShowSQLException
+org.tools
+SQLException.equals
+SQLException.getSQLState
+SQLException.printStackTrace
+Statement.execute
+System.out
+System.println

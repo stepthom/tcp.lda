@@ -1,0 +1,14 @@
+Connection.close
+File.getAbsolutePath
+org.apache
+org.derby
+org.getPropertyArg
+org.ij
+org.startJBMS
+org.tools
+Properties.getProperty
+Properties.load
+System.getProperty
+System.out
+System.println
+Throwable.printStackTrace

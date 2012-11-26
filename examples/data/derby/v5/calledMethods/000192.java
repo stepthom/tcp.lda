@@ -1,0 +1,17 @@
+BufferedOutputStream.close
+.equals
+Exception.getMessage
+Exception.printStackTrace
+ExecProcUtil.execCmdDumpResults
+ij.getPropertyArg
+ij.startJBMS
+java.Properties
+java.util
+jvm.getCommandLine
+jvm.getJvm
+NetworkServerControl.getMaxThreads
+NetworkServerControl.setMaxThreads
+System.getProperty
+System.out
+System.println
+TestUtil.getHostName

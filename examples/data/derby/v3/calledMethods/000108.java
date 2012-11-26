@@ -1,0 +1,10 @@
+Connection.close
+Connection.createStatement
+Connection.prepareStatement
+ij.getPropertyArg
+ij.startJBMS
+PreparedStatement.executeUpdate
+Statement.execute
+System.out
+System.println
+Throwable.printStackTrace

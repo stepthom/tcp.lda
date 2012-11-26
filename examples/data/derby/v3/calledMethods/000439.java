@@ -1,0 +1,7 @@
+BuildException.getMessage
+DepthSelector.isSelected
+DepthSelector.setMax
+DepthSelector.setMin
+DepthSelector.setParameters
+Parameter.setName
+Parameter.setValue

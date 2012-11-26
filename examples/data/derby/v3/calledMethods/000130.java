@@ -1,0 +1,15 @@
+BufferedOutputStream.close
+.equals
+Exception.printStackTrace
+ExecProcUtil.execCmdDumpResults
+ij.startJBMS
+InetAddress.getByName
+java.Properties
+java.util
+jvm.getCommandLine
+jvm.getJvm
+NetworkServerControl.DEFAULT_PORTNUMBER
+NetworkServerControl.getSysinfo
+System.getProperty
+System.out
+System.println

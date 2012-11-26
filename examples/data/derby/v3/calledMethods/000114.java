@@ -1,0 +1,17 @@
+Connection.close
+Connection.commit
+Connection.createStatement
+Connection.prepareStatement
+Connection.setAutoCommit
+Exception.printStackTrace
+ij.getPropertyArg
+ij.startJBMS
+JDBCDisplayUtil.ShowException
+PreparedStatement.executeUpdate
+PreparedStatement.setInt
+PreparedStatement.setString
+prep.length
+Statement.executeUpdate
+System.exit
+System.out
+System.println

@@ -1,0 +1,13 @@
+Connection.createStatement
+Connection.prepareStatement
+.exists
+File.length
+ij.getPropertyArg
+ij.startJBMS
+PreparedStatement.executeUpdate
+PreparedStatement.setBinaryStream
+PreparedStatement.setInt
+Statement.execute
+System.getProperty
+System.out
+System.println

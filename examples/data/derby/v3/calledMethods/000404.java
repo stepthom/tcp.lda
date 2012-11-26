@@ -1,0 +1,17 @@
+Connection.commit
+Connection.createStatement
+Connection.prepareStatement
+Connection.setAutoCommit
+Connection.setTransactionIsolation
+Connection.TRANSACTION_SERIALIZABLE
+ij.getPropertyArg
+ij.runScript
+ij.startJBMS
+PreparedStatement.executeUpdate
+PreparedStatement.setInt
+PreparedStatement.setString
+Statement.execute
+System.out
+System.println
+utilMain.BUFFEREDFILESIZE
+WISCInsert.doWISCInsert

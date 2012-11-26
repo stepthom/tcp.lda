@@ -1,0 +1,14 @@
+BufferedOutputStream.close
+.equals
+Exception.getMessage
+Exception.printStackTrace
+ExecProcUtil.execCmdDumpResults
+ij.startJBMS
+jvm.getCommandLine
+jvm.getJvm
+NetworkServerControl.getTimeSlice
+NetworkServerControl.setTimeSlice
+System.getProperty
+System.out
+System.println
+TestUtil.getHostName

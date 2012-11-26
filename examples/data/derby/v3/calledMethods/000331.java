@@ -1,0 +1,15 @@
+Connection.createStatement
+Connection.getMetaData
+Connection.setAutoCommit
+DatabaseMetaData.getDriverMajorVersion
+DatabaseMetaData.getDriverMinorVersion
+DatabaseMetaData.getDriverName
+DatabaseMetaData.getDriverVersion
+DatabaseMetaData.getURL
+ij.getPropertyArg
+ij.startJBMS
+System.out
+System.println
+TestUtil.compareURL
+TestUtil.HAVE_DRIVER_CLASS
+zs.equals

@@ -1,0 +1,15 @@
+Connection.createStatement
+Exception.printStackTrace
+ij.getPropertyArg
+ij.startJBMS
+ResultSet.close
+ResultSet.getInt
+ResultSet.next
+.sql
+.SQLException
+SQLException.printStackTrace
+Statement.close
+Statement.executeQuery
+Statement.executeUpdate
+System.out
+System.println

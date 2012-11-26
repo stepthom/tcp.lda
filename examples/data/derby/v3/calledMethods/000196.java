@@ -1,0 +1,16 @@
+checkDataSource30.checkXAHoldability
+checkDataSource30.runTest
+Connection.getHoldability
+Connection.releaseSavepoint
+Connection.setHoldability
+Connection.setSavepoint
+ResultSet.CLOSE_CURSORS_AT_COMMIT
+ResultSet.HOLD_CURSORS_OVER_COMMIT
+SecurityCheck.report
+SQLException.getMessage
+SQLException.getSQLState
+super.checkConnection
+super.checkConnectionPreClose
+System.out
+System.println
+TestUtil.isDerbyNetClientFramework

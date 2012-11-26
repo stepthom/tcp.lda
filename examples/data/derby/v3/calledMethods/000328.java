@@ -1,0 +1,16 @@
+Connection.close
+Connection.createStatement
+.equals
+ij.getPropertyArg
+ij.startJBMS
+ResultSet.close
+ResultSet.getMetaData
+ResultSetMetaData.getColumnClassName
+ResultSetMetaData.getColumnCount
+ResultSetMetaData.getColumnName
+Statement.close
+Statement.execute
+Statement.executeQuery
+System.out
+System.println
+TestUtil.cleanUpTest
